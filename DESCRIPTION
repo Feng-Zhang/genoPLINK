@@ -1,0 +1,13 @@
+Package: genoPLINK
+Title: a tool converting genotype data to PLINK format
+Description: geno_plink is a function which can convert genotype data to PLINK data.
+Version: 0.1
+Authors@R: c(person("Feng Zhang",role=c('aut','cre','cph'),email="297946506@qq.com"))
+Author: Feng Zhang
+Maintainer: Feng Zhang <297946506@qq.com>
+Depends:
+    R (>= 3.0.1)
+License: GPL-3
+LazyData: true
+Encoding: UTF-8
+RoxygenNote: 7.1.1
